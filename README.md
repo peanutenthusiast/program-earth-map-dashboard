@@ -61,7 +61,6 @@ pnpm test
 
 # Features & Implementation Details
 
-- CO₂ Emissions Reporting: Uses EcoInfra GitHub Action to analyze and report estimated carbon emissions from infrastructure-as-code (e.g., Terraform).
 
 ## Important Links
 
@@ -99,7 +98,3 @@ Users can filter the map by:
 | Automation          | GitHub Actions, Cron jobs                      |
 | Water Data          | Shapefiles/CSVs into Postgres                  |
 | Canopy Data         | Meta Canopy Map GeoTIFF/GeoJSON                |
-
-## Github Actions
-
-CO₂ Emissions Reporting: Uses [EcoInfra GitHub Action](https://github.com/marketplace/actions/eco-infra-action) to analyze and report estimated carbon emissions from infrastructure-as-code (e.g., Terraform)
